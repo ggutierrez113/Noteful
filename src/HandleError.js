@@ -1,4 +1,4 @@
-mport React from 'react';
+import React from 'react';
 
 export default class HandleError extends React.Component  {
   state = {hasError: null};
